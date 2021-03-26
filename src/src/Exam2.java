@@ -1,0 +1,2 @@
+public class Exam2 {
+}
